@@ -11,11 +11,14 @@ https://colab.research.google.com/drive/1uR738UTlzI7apqeN0qr6mQ5ke_a5SKa8?usp=sh
 
 
 I made conveter.py referencing above script.
+
 YOLOv5CoreMLConverter.py can get argument
+
  YOLOv5CoreMLConverter.py [-h] [-input MODEL_INPUT_PATH]
                                 [-output MODEL_OUTPUT_DIRECTORY]
                                 [-name MODEL_OUTPUT_NAME] [-quant]
                                 [-size IMGSIZE] [-label CLASSNAME]
 
 to use this script , to run following
+
 YOLOv5CoreMLConvertProcess.ipynb
