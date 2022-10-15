@@ -10,14 +10,8 @@ https://rockyshikoku.medium.com/convert-yolov5-to-coreml-also-add-a-decode-layer
 https://colab.research.google.com/drive/1uR738UTlzI7apqeN0qr6mQ5ke_a5SKa8?usp=sharing
 
 
-I made conveter.py referencing above script.
-
-YOLOv5CoreMLConverter.py can get argument
-
- YOLOv5CoreMLConverter.py [-h] [-input MODEL_INPUT_PATH]
-                                [-output MODEL_OUTPUT_DIRECTORY]
-                                [-name MODEL_OUTPUT_NAME] [-quant]
-                                [-size IMGSIZE] [-label CLASSNAME]
+I made YOLOv5CoreMLConverter.py referencing above script.
+This conveter can get argument
 
 to use this script , to run following
 
