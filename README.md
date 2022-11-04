@@ -16,3 +16,7 @@ This conveter can get argument
 to use this script , to run following
 
 YOLOv5CoreMLConvertProcess.ipynb
+
+
+YOLOv5CoreMLConverter.py is for YOLOv5 P5 model
+YOLOv5P6CoreMLConverter.py is for YOLOv5 P6 1280image size model
