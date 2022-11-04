@@ -19,4 +19,5 @@ YOLOv5CoreMLConvertProcess.ipynb
 
 
 YOLOv5CoreMLConverter.py is for YOLOv5 P5 model
+
 YOLOv5P6CoreMLConverter.py is for YOLOv5 P6 1280image size model
